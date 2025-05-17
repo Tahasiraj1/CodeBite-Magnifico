@@ -843,7 +843,7 @@ const Tools = () => {
               width="54"
               height="58"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -900,7 +900,7 @@ const Tools = () => {
               width="1.3999"
               height="1.55005"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -963,7 +963,7 @@ const Tools = () => {
               width="2.2998"
               height="2.30005"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -997,7 +997,7 @@ const Tools = () => {
               width="17.5498"
               height="0.949951"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1031,7 +1031,7 @@ const Tools = () => {
               width="17.5498"
               height="0.949951"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1065,7 +1065,7 @@ const Tools = () => {
               width="7.8252"
               height="8.01245"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1099,7 +1099,7 @@ const Tools = () => {
               width="74"
               height="78"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1156,7 +1156,7 @@ const Tools = () => {
               width="11"
               height="6.33331"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1190,7 +1190,7 @@ const Tools = () => {
               width="74"
               height="78"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1247,7 +1247,7 @@ const Tools = () => {
               width="20.042"
               height="17.9584"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -1287,7 +1287,7 @@ const Tools = () => {
               width="24.7559"
               height="9.29163"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -1327,7 +1327,7 @@ const Tools = () => {
               width="74"
               height="78"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1384,7 +1384,7 @@ const Tools = () => {
               width="54"
               height="58"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1441,7 +1441,7 @@ const Tools = () => {
               width="54"
               height="58"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1498,7 +1498,7 @@ const Tools = () => {
               width="14.9956"
               height="17.1028"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1532,7 +1532,7 @@ const Tools = () => {
               width="74"
               height="78"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1589,7 +1589,7 @@ const Tools = () => {
               width="54"
               height="58"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1646,7 +1646,7 @@ const Tools = () => {
               width="74"
               height="78"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1703,7 +1703,7 @@ const Tools = () => {
               width="74"
               height="78"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1760,7 +1760,7 @@ const Tools = () => {
               width="25.3125"
               height="35"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -1823,7 +1823,7 @@ const Tools = () => {
               width="74"
               height="78"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1880,7 +1880,7 @@ const Tools = () => {
               width="23.333"
               height="7.625"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -1920,7 +1920,7 @@ const Tools = () => {
               width="3.25"
               height="3.25"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1954,7 +1954,7 @@ const Tools = () => {
               width="3.25"
               height="3.25"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -1988,7 +1988,7 @@ const Tools = () => {
               width="26.1343"
               height="21.9553"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -2028,7 +2028,7 @@ const Tools = () => {
               width="26.1343"
               height="11.2916"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -2068,7 +2068,7 @@ const Tools = () => {
               width="24.6841"
               height="10.9791"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -2108,7 +2108,7 @@ const Tools = () => {
               width="74"
               height="78"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -2165,7 +2165,7 @@ const Tools = () => {
               width="25.667"
               height="26.9167"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -2228,7 +2228,7 @@ const Tools = () => {
               width="25.333"
               height="25.3333"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -2262,7 +2262,7 @@ const Tools = () => {
               width="54"
               height="58"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -2319,7 +2319,7 @@ const Tools = () => {
               width="74"
               height="78"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -2376,7 +2376,7 @@ const Tools = () => {
               width="25.3335"
               height="19.9166"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -2439,7 +2439,7 @@ const Tools = () => {
               width="7.01074"
               height="5.81787"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -2479,7 +2479,7 @@ const Tools = () => {
               width="6.6665"
               height="7.29163"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -2519,7 +2519,7 @@ const Tools = () => {
               width="6.6665"
               height="7.29163"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -2559,7 +2559,7 @@ const Tools = () => {
               width="29.3335"
               height="20.5834"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feBlend
@@ -2622,7 +2622,7 @@ const Tools = () => {
               width="54"
               height="58"
               filterUnits="userSpaceOnUse"
-              color-interpolation-filters="sRGB"
+              colorInterpolationFilters="sRGB"
             >
               <feFlood floodOpacity="0" result="BackgroundImageFix" />
               <feColorMatrix
@@ -2680,8 +2680,8 @@ const Tools = () => {
               y2="227.72"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#494949" />
-              <stop offset="1" stop-color="#2B2B2B" />
+              <stop stopColor="#494949" />
+              <stop offset="1" stopColor="#2B2B2B" />
             </linearGradient>
             <linearGradient
               id="paint1_linear_346_20683"
@@ -2691,8 +2691,8 @@ const Tools = () => {
               y2="219.1"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#494949" />
-              <stop offset="1" stop-color="#2B2B2B" />
+              <stop stopColor="#494949" />
+              <stop offset="1" stopColor="#2B2B2B" />
             </linearGradient>
             <linearGradient
               id="paint2_linear_346_20683"
@@ -2702,8 +2702,8 @@ const Tools = () => {
               y2="222.1"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#E9CD78" />
-              <stop offset="1" stop-color="#E7B61D" />
+              <stop stopColor="#E9CD78" />
+              <stop offset="1" stopColor="#E7B61D" />
             </linearGradient>
             <linearGradient
               id="paint3_linear_346_20683"
@@ -2713,8 +2713,8 @@ const Tools = () => {
               y2="104.961"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#C26003" />
-              <stop offset="1" stop-color="#F4B401" stop-opacity="0.513842" />
+              <stop stopColor="#C26003" />
+              <stop offset="1" stopColor="#F4B401" stopOpacity="0.513842" />
             </linearGradient>
             <linearGradient
               id="paint4_linear_346_20683"
@@ -2724,8 +2724,8 @@ const Tools = () => {
               y2="391.458"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#155ACA" />
-              <stop offset="1" stop-color="#2F71DD" stop-opacity="0.01" />
+              <stop stopColor="#155ACA" />
+              <stop offset="1" stopColor="#2F71DD" stopOpacity="0.01" />
             </linearGradient>
             <linearGradient
               id="paint5_linear_346_20683"
@@ -2735,8 +2735,8 @@ const Tools = () => {
               y2="389.399"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#002D77" stop-opacity="0.8018" />
-              <stop offset="1" stop-color="#2F71DD" stop-opacity="0.01" />
+              <stop stopColor="#002D77" stopOpacity="0.8018" />
+              <stop offset="1" stopColor="#2F71DD" stopOpacity="0.01" />
             </linearGradient>
             <linearGradient
               id="paint6_linear_346_20683"
@@ -2746,8 +2746,8 @@ const Tools = () => {
               y2="374.982"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#1B935A" />
-              <stop offset="1" stop-color="#118B50" stop-opacity="0.01" />
+              <stop stopColor="#1B935A" />
+              <stop offset="1" stopColor="#118B50" stopOpacity="0.01" />
             </linearGradient>
             <linearGradient
               id="paint7_linear_346_20683"
@@ -2757,9 +2757,9 @@ const Tools = () => {
               y2="173.625"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#FB923C" />
-              <stop offset="0.496353" stop-color="#EF4444" />
-              <stop offset="1" stop-color="#701A75" />
+              <stop stopColor="#FB923C" />
+              <stop offset="0.496353" stopColor="#EF4444" />
+              <stop offset="1" stopColor="#701A75" />
             </linearGradient>
             <linearGradient
               id="paint8_linear_346_20683"
@@ -2769,8 +2769,8 @@ const Tools = () => {
               y2="129.054"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#35B7C8" />
-              <stop offset="1" stop-color="#35CADD" />
+              <stop stopColor="#35B7C8" />
+              <stop offset="1" stopColor="#35CADD" />
             </linearGradient>
             <linearGradient
               id="paint9_linear_346_20683"
@@ -2780,9 +2780,9 @@ const Tools = () => {
               y2="79.5361"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#53FEE4" />
-              <stop offset="0.512023" stop-color="#2EA7AF" />
-              <stop offset="1" stop-color="#084D78" />
+              <stop stopColor="#53FEE4" />
+              <stop offset="0.512023" stopColor="#2EA7AF" />
+              <stop offset="1" stopColor="#084D78" />
             </linearGradient>
             <linearGradient
               id="paint10_linear_346_20683"
@@ -2792,10 +2792,10 @@ const Tools = () => {
               y2="83.6302"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#60FFE9" />
-              <stop offset="0.239679" stop-color="#39BCC0" />
-              <stop offset="0.687649" stop-color="#156795" />
-              <stop offset="1" stop-color="#0E567E" />
+              <stop stopColor="#60FFE9" />
+              <stop offset="0.239679" stopColor="#39BCC0" />
+              <stop offset="0.687649" stopColor="#156795" />
+              <stop offset="1" stopColor="#0E567E" />
             </linearGradient>
             <linearGradient
               id="paint11_linear_346_20683"
@@ -2805,8 +2805,8 @@ const Tools = () => {
               y2="79.9851"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#830173" />
-              <stop offset="1" stop-color="#6F0079" />
+              <stop stopColor="#830173" />
+              <stop offset="1" stopColor="#6F0079" />
             </linearGradient>
             <linearGradient
               id="paint12_linear_346_20683"
@@ -2816,11 +2816,11 @@ const Tools = () => {
               y2="81.3017"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#91007B" />
-              <stop offset="0.252014" stop-color="#BC017A" />
-              <stop offset="0.411661" stop-color="#D20179" />
-              <stop offset="0.665063" stop-color="#BC0179" />
-              <stop offset="1" stop-color="#92017A" />
+              <stop stopColor="#91007B" />
+              <stop offset="0.252014" stopColor="#BC017A" />
+              <stop offset="0.411661" stopColor="#D20179" />
+              <stop offset="0.665063" stopColor="#BC0179" />
+              <stop offset="1" stopColor="#92017A" />
             </linearGradient>
             <linearGradient
               id="paint13_linear_346_20683"
@@ -2830,12 +2830,12 @@ const Tools = () => {
               y2="87.4751"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#FFE249" />
-              <stop offset="0.414108" stop-color="#FD9531" />
-              <stop offset="0.542223" stop-color="#FE7829" />
-              <stop offset="0.659738" stop-color="#FE6824" />
-              <stop offset="0.861605" stop-color="#FE5C1F" />
-              <stop offset="1" stop-color="#FF4918" />
+              <stop stopColor="#FFE249" />
+              <stop offset="0.414108" stopColor="#FD9531" />
+              <stop offset="0.542223" stopColor="#FE7829" />
+              <stop offset="0.659738" stopColor="#FE6824" />
+              <stop offset="0.861605" stopColor="#FE5C1F" />
+              <stop offset="1" stopColor="#FF4918" />
             </linearGradient>
             <linearGradient
               id="paint14_linear_346_20683"
@@ -2845,9 +2845,9 @@ const Tools = () => {
               y2="87.4413"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#FFE84C" />
-              <stop offset="0.660206" stop-color="#FD6F27" />
-              <stop offset="1" stop-color="#FE6321" />
+              <stop stopColor="#FFE84C" />
+              <stop offset="0.660206" stopColor="#FD6F27" />
+              <stop offset="1" stopColor="#FE6321" />
             </linearGradient>
             <linearGradient
               id="paint15_linear_346_20683"
@@ -2857,10 +2857,10 @@ const Tools = () => {
               y2="88.1292"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#FEEF4C" />
-              <stop offset="0.115863" stop-color="#FFF54F" />
-              <stop offset="0.580454" stop-color="#FB5B1F" />
-              <stop offset="1" stop-color="#FE4819" />
+              <stop stopColor="#FEEF4C" />
+              <stop offset="0.115863" stopColor="#FFF54F" />
+              <stop offset="0.580454" stopColor="#FB5B1F" />
+              <stop offset="1" stopColor="#FE4819" />
             </linearGradient>
             <linearGradient
               id="paint16_linear_346_20683"
@@ -2870,9 +2870,9 @@ const Tools = () => {
               y2="120.847"
               gradientUnits="userSpaceOnUse"
             >
-              <stop offset="0.004" stop-color="#4C99D4" />
-              <stop offset="0.5" stop-color="#56C3E6" />
-              <stop offset="1" stop-color="#B0D8BC" />
+              <stop offset="0.004" stopColor="#4C99D4" />
+              <stop offset="0.5" stopColor="#56C3E6" />
+              <stop offset="1" stopColor="#B0D8BC" />
             </linearGradient>
             <linearGradient
               id="paint17_linear_346_20683"
@@ -2882,9 +2882,9 @@ const Tools = () => {
               y2="120.857"
               gradientUnits="userSpaceOnUse"
             >
-              <stop offset="0.004" stop-color="#4C99D4" />
-              <stop offset="0.5" stop-color="#56C3E6" />
-              <stop offset="1" stop-color="#B0D8BC" />
+              <stop offset="0.004" stopColor="#4C99D4" />
+              <stop offset="0.5" stopColor="#56C3E6" />
+              <stop offset="1" stopColor="#B0D8BC" />
             </linearGradient>
             <linearGradient
               id="paint18_linear_346_20683"
@@ -2894,9 +2894,9 @@ const Tools = () => {
               y2="120.848"
               gradientUnits="userSpaceOnUse"
             >
-              <stop offset="0.004" stop-color="#4C99D4" />
-              <stop offset="0.5" stop-color="#56C3E6" />
-              <stop offset="1" stop-color="#B0D8BC" />
+              <stop offset="0.004" stopColor="#4C99D4" />
+              <stop offset="0.5" stopColor="#56C3E6" />
+              <stop offset="1" stopColor="#B0D8BC" />
             </linearGradient>
             <linearGradient
               id="paint19_linear_346_20683"
@@ -2906,9 +2906,9 @@ const Tools = () => {
               y2="120.844"
               gradientUnits="userSpaceOnUse"
             >
-              <stop offset="0.004" stop-color="#4C99D4" />
-              <stop offset="0.5" stop-color="#56C3E6" />
-              <stop offset="1" stop-color="#B0D8BC" />
+              <stop offset="0.004" stopColor="#4C99D4" />
+              <stop offset="0.5" stopColor="#56C3E6" />
+              <stop offset="1" stopColor="#B0D8BC" />
             </linearGradient>
             <linearGradient
               id="paint20_linear_346_20683"
@@ -2918,9 +2918,9 @@ const Tools = () => {
               y2="90.2065"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#B0D8BC" />
-              <stop offset="0.5" stop-color="#56C3E6" />
-              <stop offset="0.996" stop-color="#4C99D4" />
+              <stop stopColor="#B0D8BC" />
+              <stop offset="0.5" stopColor="#56C3E6" />
+              <stop offset="0.996" stopColor="#4C99D4" />
             </linearGradient>
             <linearGradient
               id="paint21_linear_346_20683"
@@ -2930,8 +2930,8 @@ const Tools = () => {
               y2="25.6591"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-opacity="0.194973" />
-              <stop offset="1" stop-opacity="0.194973" />
+              <stop stopOpacity="0.194973" />
+              <stop offset="1" stopOpacity="0.194973" />
             </linearGradient>
             <linearGradient
               id="paint22_linear_346_20683"
@@ -2941,8 +2941,8 @@ const Tools = () => {
               y2="23.5777"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#94F0FF" />
-              <stop offset="1" stop-color="#94F0FF" />
+              <stop stopColor="#94F0FF" />
+              <stop offset="1" stopColor="#94F0FF" />
             </linearGradient>
             <linearGradient
               id="paint23_linear_346_20683"
@@ -2952,8 +2952,8 @@ const Tools = () => {
               y2="424.25"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#129EF6" />
-              <stop offset="1" stop-color="#0180E6" />
+              <stop stopColor="#129EF6" />
+              <stop offset="1" stopColor="#0180E6" />
             </linearGradient>
             <linearGradient
               id="paint24_linear_346_20683"
@@ -2963,8 +2963,8 @@ const Tools = () => {
               y2="312.875"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#518FF5" />
-              <stop offset="1" stop-color="#4385F4" />
+              <stop stopColor="#518FF5" />
+              <stop offset="1" stopColor="#4385F4" />
             </linearGradient>
             <linearGradient
               id="paint25_linear_346_20683"
@@ -2974,8 +2974,8 @@ const Tools = () => {
               y2="295.016"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#3664B2" />
-              <stop offset="1" stop-color="#4788F4" stop-opacity="0.01" />
+              <stop stopColor="#3664B2" />
+              <stop offset="1" stopColor="#4788F4" stopOpacity="0.01" />
             </linearGradient>
             <linearGradient
               id="paint26_linear_346_20683"
@@ -2985,8 +2985,8 @@ const Tools = () => {
               y2="289.306"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#345FA7" />
-              <stop offset="1" stop-color="#2B70E3" stop-opacity="0.01" />
+              <stop stopColor="#345FA7" />
+              <stop offset="1" stopColor="#2B70E3" stopOpacity="0.01" />
             </linearGradient>
             <linearGradient
               id="paint27_linear_346_20683"
@@ -2996,8 +2996,8 @@ const Tools = () => {
               y2="159.203"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#B0B0B0" />
-              <stop offset="1" stop-color="#D8D8D8" stop-opacity="0.01" />
+              <stop stopColor="#B0B0B0" />
+              <stop offset="1" stopColor="#D8D8D8" stopOpacity="0.01" />
             </linearGradient>
             <linearGradient
               id="paint28_linear_346_20683"
@@ -3007,8 +3007,8 @@ const Tools = () => {
               y2="159.203"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#B0B0B0" />
-              <stop offset="1" stop-color="#D8D8D8" stop-opacity="0.01" />
+              <stop stopColor="#B0B0B0" />
+              <stop offset="1" stopColor="#D8D8D8" stopOpacity="0.01" />
             </linearGradient>
             <linearGradient
               id="paint29_linear_346_20683"
@@ -3018,8 +3018,8 @@ const Tools = () => {
               y2="178.334"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#3C78DD" />
-              <stop offset="1" stop-color="#4688F4" stop-opacity="0.01" />
+              <stop stopColor="#3C78DD" />
+              <stop offset="1" stopColor="#4688F4" stopOpacity="0.01" />
             </linearGradient>
             <linearGradient
               id="paint30_linear_346_20683"
@@ -3029,8 +3029,8 @@ const Tools = () => {
               y2="63.7447"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#3C70C8" />
-              <stop offset="1" stop-color="#4889F4" stop-opacity="0.01" />
+              <stop stopColor="#3C70C8" />
+              <stop offset="1" stopColor="#4889F4" stopOpacity="0.01" />
             </linearGradient>
             <linearGradient
               id="paint31_linear_346_20683"
@@ -3040,8 +3040,8 @@ const Tools = () => {
               y2="269.77"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#19DEFE" />
-              <stop offset="1" stop-color="#1E5BEF" />
+              <stop stopColor="#19DEFE" />
+              <stop offset="1" stopColor="#1E5BEF" />
             </linearGradient>
             <linearGradient
               id="paint32_linear_346_20683"
@@ -3051,8 +3051,8 @@ const Tools = () => {
               y2="331"
               gradientUnits="userSpaceOnUse"
             >
-              <stop stop-color="#E8016A" />
-              <stop offset="1" stop-color="#EE3224" />
+              <stop stopColor="#E8016A" />
+              <stop offset="1" stopColor="#EE3224" />
             </linearGradient>
           </defs>
         </svg>
