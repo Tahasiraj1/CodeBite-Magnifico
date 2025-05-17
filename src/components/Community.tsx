@@ -6,11 +6,7 @@ import { FaArrowRight } from "react-icons/fa";
 const Community = () => {
   return (
     <div className='w-full lg:py-10 lg:px-20 bg-white'>
-        <div className='flex flex-col items-center text-center justify-center py-10 px-20 space-y-4 lg:rounded-3xl text-white'
-          style={{
-            background: `linear-gradient(to bottom right, #312E81, #1E40AF, #1E3A8A, #402D81, #701A75)`,
-          }}
-        >
+        <div className='flex flex-col items-center text-center justify-center py-10 lg:py-20 px-20 space-y-4 lg:rounded-3xl text-white bg-gradient-to-br from-[#312E81] via-[#402D81] to-[#701A75]'>
             <h1 className='text-4xl font-bold'>
                 Join The Community
             </h1>
