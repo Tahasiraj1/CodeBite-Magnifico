@@ -8,26 +8,26 @@ const images = [
     src: "/images/Picture1.png",
     alt: "Frame1",
     className:
-      "rounded-md w-[250px] h-[250px] md:w-[400px] md:h-[400px] mt-20 object-contain duration-300 hover:scale-110 transition-transform transform z-10",
+      "rounded-md w-[200px] h-[200px] sm:w-[400px] sm:h-[400px] mt-20 object-contain duration-300 hover:scale-110 transition-transform transform z-10",
   },
   {
     src: "/images/Picture2.png",
     alt: "Frame2",
     className:
-      "rounded-md w-[250px] h-[250px] md:w-[400px] md:h-[400px] mb-10 object-contain duration-300 hover:scale-110 transition-transform transform z-10",
+      "rounded-md w-[200px] h-[200px] sm:w-[400px] sm:h-[400px] mb-10 object-contain duration-300 hover:scale-110 transition-transform transform z-10",
   },
   {
     src: "/images/Picture3.png",
     alt: "Frame3",
     className:
-      "rounded-md w-[250px] h-[250px] md:w-[400px] md:h-[400px] mt-10 object-contain duration-300 hover:scale-110 transition-transform transform z-10",
+      "rounded-md w-[200px] h-[200px] sm:w-[400px] sm:h-[400px] mt-10 object-contain duration-300 hover:scale-110 transition-transform transform z-10",
   },
 ];
 
 const WorkingTime = () => {
   return (
     <div className="flex flex-col lg:flex-row items-center justify-center gap-8 py-10 px-8">
-      <div className="relative flex-1 flex items-cente justify-center gap-2 lg:gap-4 order-2 lg:order-1">
+      <div className="relative flex-1 flex items-cente justify-center gap-2 lg:gap-4 order-2 lg:order-1 px-2">
         {images.map((img, index) => (
           <Image
             key={index}
