@@ -144,7 +144,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="relative flex flex-1 items-center justify-center z-10">
-        <Browser imageScr="/images/meeting.jpg" />
+        <Browser imageScr="/images/meeting2.png" />
       </div>
       <svg
         className="hidden lg:block absolute bottom-0 right-0 -translate-y-2/4 -translate-x-1/20"
