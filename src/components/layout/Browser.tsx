@@ -4,10 +4,15 @@ import { GoDotFill } from "react-icons/go";
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 import { CiPlay1 } from "react-icons/ci";
 
+interface browserProps {
+    imageScr: string
+    className?: string
+}
 
-const Browser = ({imageScr}: {imageScr: string}) => {
+
+const Browser = ({imageScr, className}: browserProps) => {
   return (
-    <div className='flex flex-col rounded-md shadow-md w-auto h-auto'>
+    <div className={`flex flex-col rounded-md shadow-md w-auto h-auto ${className}`}>
         <div className='flex items-center justify-between p-2'>
             <div className='flex'>
                 <GoDotFill className='text-red-600' />

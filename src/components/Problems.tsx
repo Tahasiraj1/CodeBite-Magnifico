@@ -3,7 +3,7 @@ import { FaArrowRight } from "react-icons/fa";
 
 const Problems = () => {
   return (
-    <div className="lg:px-10 w-full h-auto">
+    <div className="lg:px-20 w-full h-auto">
       <div
         className="lg:px-10 lg:py-10 flex items-center justify-end relative lg:rounded-2xl"
         style={{

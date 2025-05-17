@@ -30,7 +30,7 @@ const Header = () => {
             <Button className='bg-white text-black px-8 py-6 shadow-none hover:bg-white/80'>
                 Login
             </Button>
-            <Button className='bg-blue-600 text-white px-8 py-6'>
+            <Button className='bg-blue-600 hover:bg-blue-500 text-white px-8 py-6'>
                 Sign Up <FaArrowRight className='ml-2' />
             </Button>
         </div>
